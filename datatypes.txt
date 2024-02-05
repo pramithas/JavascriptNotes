@@ -1,0 +1,20 @@
+Data types:
+
+      There are 7 types of primitive data types: (nn bb ss u)
+
+Null
+Number
+String
+Symbol
+Undefined
+Boolean
+bigint
+
+	
+	What is object?
+Key value pair.
+
+	Const item = {
+		“name”:”Pramithas”,
+		“Title”:”software engineer”
+};
