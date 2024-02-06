@@ -23,7 +23,7 @@ let arr1= [1,2,3,4,5,6,7,83];
 let arr2= [10,20,3,40,5,6,7,83];
 
 let filtered = arr2.filter((x) => x %10 == 0);
-//console.log(filtered, typeof filtered);
+//console.log(filtered, typeof filtered); 
 
 
 // Q4. Create an array of square of given numbers.
