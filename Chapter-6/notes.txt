@@ -1,0 +1,1 @@
+1. Window object represents browser window and provides methods to control it.
